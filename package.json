@@ -1,0 +1,24 @@
+{
+  "name": "node-fundamentos",
+  "version": "1.0.0",
+  "description": "clases de node ",
+  "main": "codigoasincrono.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node servidor.js"
+  },
+  "keywords": [
+    "clase",
+    "de",
+    "node",
+    "principios"
+  ],
+  "author": "Leonel Torrez salgado",
+  "license": "ISC"
+}
